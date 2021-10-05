@@ -9,12 +9,14 @@ O website tem por objetivo apresentar sobre a temática User Experience, explica
 
 ### Tecnologias utilizadas
 
-HTML
+<div style="display: inline_block"><br>
+  <img align="center" alt="ícone Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-CSS
 
-JS
-
+<br>
 Responsividade desenvolvida com media query 
 
 Utilizado accordion no html e no JavaScript
